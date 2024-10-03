@@ -1,0 +1,12 @@
+.para{
+    text-decoration-style: solid;
+    color:rgb(228, 228, 240);
+    }
+div{
+    border: solid rgb(23, 20, 220) 2px;
+    padding: 10%;
+    margin: 30px;
+    background-image: url(images/pic1.jfif);
+    background-repeat:round;
+    background-size: cover;
+}

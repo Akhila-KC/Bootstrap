@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    color: black;
+    text-align: justify;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}

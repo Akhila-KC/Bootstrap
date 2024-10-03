@@ -1,0 +1,47 @@
+.head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(44, 128, 224);
+}
+.image{
+    background-image: url(images/black-and-white-business-chart-241544-1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    opacity: 0.8;
+}
+.img_content{
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    line-height: 2;
+    text-transform: uppercase;
+    color: rgb(243, 237, 237);
+    text-align: center;
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.content_head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(44, 128, 224);
+    text-align: center;
+
+}
+P{
+    text-align: center;
+}
+.bg{
+    background-color: rgb(184, 181, 181);
+    }
+.bg2{
+    background-color: black;
+    }
+h5{
+    color: rgb(44, 128, 224);
+    font-size: 20px;
+}
+.row{
+    color: white;
+    font-size: 13px;
+}
